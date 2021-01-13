@@ -10,3 +10,7 @@ This is An accounts manager userbot for telegram
 3- **Install requirements** ( `py -m pip install -r requirements.txt` ) 
 
 4- Open config.ini And replace _API_ID_ and _API_HASH_ with your's
+
+5- **Create a folder for session files named Sessions** ( `mkdir Sessions` )
+
+6- **Run the main client** ( `py main.py` )
