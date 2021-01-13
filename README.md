@@ -24,10 +24,16 @@ Handlers in `main_handlers` folder are all for main client, as you there is one 
 ## Commands
 
 This commands should run by main account:
-  - /addacc [Session Name]: use this to add account.
-  - /runall : starts all child accounts
-  - /stopall : stops all runnig accounts 
-  - run [Session Name] : run on or more specific accounts
-  - stop [Session Name] : stop on or more specific accounts
-  - /accs : get a list of running session names
-  - /info : get info about running accounts 
+  - `/addacc [Session Name]`: use this to add account.
+  - `/runall` : starts all child accounts
+  - `/stopall` : stops all runnig accounts 
+  - `/run [Session Name]` : run on or more specific accounts
+  - `/stop [Session Name]` : stop on or more specific accounts
+  - `/accs` : get a list of running session names
+  - `/info` : get info about running accounts 
+
+## Last thing 
+
+Read [Pyrogram](https://docs.pyrogram.org/) documentations specially [Smart Plugins](https://docs.pyrogram.org/topics/smart-plugins) 
+
+Explore the code it's easy to understand .
